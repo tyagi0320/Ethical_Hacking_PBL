@@ -13,7 +13,7 @@ A complete ethical hacking mini-project demonstrating:
 # 📸 **Project Screenshots (Outputs)**
 
 ### **Output 1 – Building Containers**
-![Output1-Building Containers](firewallOutput/Output1-Building%20containers.png)
+![Output1-Building Containers](Output/Output1-Building%20containers.png)
 
 ### **Output 2 – Starting Containers**
 ![Output2-Starting Containers](Output/Output2-Starting%20containers.png)

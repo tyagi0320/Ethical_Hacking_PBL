@@ -28,13 +28,16 @@ A complete ethical hacking mini-project demonstrating:
 ![Output5-No Attack](Output/Output5-No%20attack.png)
 
 ### **Output 6 – DoS Attack Using HTTP Flooding**
-![Output6-Dos Attack](Output/Output6-Attack%20using%20http%20flooding(Dos attack).png)
+![Output6-Dos Attack]![Output6](Output/Output6-%20Attack%20using%20hhtp%20flooding%28Dos%20attack%29.png)
+
 
 ### **Output 7 – Attacker Container IP Gets Blocked**
-![Output7-IP Blocked](Output/Output7-Attack%20container%20IP-172.18.0.4%20gets%20blocked.png)
+![Output7-IP Blocked]![Output7](Output/Output7-%20Attack%20container%20IP-172.18.0.4%20gets%20blocked.png)
+
 
 ### **Output 8 – Brute Force Refresh Flood Attack (VictimApp IP Also Gets Blocked)**
-![Output8-Brute force](Output/Output8-BruteForce%20attack(Refresh%20flood)%20on%20VictimApp%20IP%20also%20blocked.png)
+![Output8-Brute force]![Output8](Output/Output8-%20BruteForce%20attack%28Refresh%20flood%29%20on%20VictimApp%20IP%20also%20blocked.png)
+
 
 ---
 

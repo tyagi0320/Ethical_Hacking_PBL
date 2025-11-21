@@ -13,28 +13,28 @@ A complete ethical hacking mini-project demonstrating:
 # 📸 **Project Screenshots (Outputs)**
 
 ### **Output 1 – Building Containers**
-![Output1-Building Containers](Output/Output1-Building containers.png)
+![Output1-Building Containers](firewallOutput/Output1-Building%20containers.png)
 
 ### **Output 2 – Starting Containers**
-![Output2-Starting Containers](Output/Output2-Starting containers.png)
+![Output2-Starting Containers](Output/Output2-Starting%20containers.png)
 
 ### **Output 3 – VictimApp With No Firewall (Port 8000, IP 172.18.0.3)**
-![Output3-No Firewall](Output/Output3-VictimApp with no firewall (Port-8000,IP-172.18.0.3).png)
+![Output3-No Firewall](Output/Output3-VictimApp%20with%20no%20firewall%20(Port-8000,IP-172.18.0.3).png)
 
 ### **Output 4 – VictimApp With Firewall (Port 8080, IP 172.18.0.1)**
-![Output4-With Firewall](Output/Output4-VictimApp with firewall(Port-8080,IP-172.18.0.1).png)
+![Output4-With Firewall](Output/Output4-VictimApp%20with%20firewall(Port-8080,IP-172.18.0.1).png)
 
 ### **Output 5 – No Attack (Normal Behavior)**
-![Output5-No Attack](Output/Output5-No attack.png)
+![Output5-No Attack](Output/Output5-No%20attack.png)
 
 ### **Output 6 – DoS Attack Using HTTP Flooding**
-![Output6-Dos Attack](Output/Output6-Attack using http flooding(Dos attack).png)
+![Output6-Dos Attack](Output/Output6-Attack%20using%20http%20flooding(Dos attack).png)
 
 ### **Output 7 – Attacker Container IP Gets Blocked**
-![Output7-IP Blocked](Output/Output7-Attack container IP-172.18.0.4 gets blocked.png)
+![Output7-IP Blocked](Output/Output7-Attack%20container%20IP-172.18.0.4%20gets%20blocked.png)
 
 ### **Output 8 – Brute Force Refresh Flood Attack (VictimApp IP Also Gets Blocked)**
-![Output8-Brute force](Output/Output8-BruteForce attack(Refresh flood) on VictimApp IP also blocked.png)
+![Output8-Brute force](Output/Output8-BruteForce%20attack(Refresh%20flood)%20on%20VictimApp%20IP%20also%20blocked.png)
 
 ---
 
